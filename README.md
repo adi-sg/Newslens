@@ -1,7 +1,10 @@
-# News at the Command line
-### Want to be kept updated without visiting the news portals every now and then
+# Newslens
+#### This repo was originally a fork from @Griffintaur [News-At-Command-Line](https://github.com/Griffintaur/News-At-Command-Line)
 
- Now you don't need to visit each news portal website separately to read their articles. Just use the tool and read the articles without even clicking a single mouse button.
+### Newslens will help understand the news, specifically the bias presented across major news outlets and what is common vs. different in the way events are portrayed depending on the outlet.
+
+# Current milestone:
+- Writing the app in ruby (learning ruby for work)
 
 
 # Modules Requirements
@@ -29,7 +32,7 @@ To install the module dependencies before running the application, simply naviga
  
 # Contributing
 We welcome your contributions. Please feel free to fork the code, play with it, make some patches and send us pull requests.
- [MAIL me](anky.nits.cse@gmail.com) for any discussion on the project or contribution.
+
  
 # ScreenShot
  ![Input1](https://raw.githubusercontent.com/Griffintaur/News-At-Command-Line/master/News/Images/screenshot1.JPG)
@@ -39,10 +42,5 @@ We welcome your contributions. Please feel free to fork the code, play with it, 
 # Support
 Please [open an issue on GitHub](https://github.com/Griffintaur/News-At-Command-Line/issues/new) if you'd like to report a bug or request a feature. 
 
-  [![Donate](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/kitabkalam/25usd)
-
 ## License
 The code is released under MIT license and free to use.
-
-## Status
-The project is not actively maintained. I am happy to accept PRs on the project.
